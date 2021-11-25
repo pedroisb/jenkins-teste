@@ -1,6 +1,0 @@
-services:
-  db:
-    container_name: pedroisb
-    image: jenkins-teste
-    expose:
-      - "8080"
